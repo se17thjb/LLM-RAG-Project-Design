@@ -31,3 +31,15 @@ This project implements a code evaluation system that leverages **Large Language
 
 Developed as part of academic research at **Technological Institute of the Philippines - Quezon City**  
 **Duration**: September 2024 - June 2025
+
+# Supplementary Files:
+
+Web deployment (working notebook):
+
+https://drive.google.com/drive/folders/1sbKSqrwMifsVjb2JxM5-TH9ysYWXYo8Z?usp=sharing
+
+Technical paper of the project:
+
+https://drive.google.com/drive/folders/1KRTGt_UFQXMKMlXUr6VP3THW1dGJ-u7u?usp=sharing
+
+
