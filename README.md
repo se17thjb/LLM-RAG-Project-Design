@@ -1,2 +1,25 @@
-# Project-Design
-Intelligent code evaluation system leveraging Large Language Models and Retrieval-Augmented Generation to transform how beginners learn Python. Delivers personalized, educational feedback that explains the 'why' behind code improvements.
+🎯 Overview
+This project implements a code evaluation system that leverages Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) technology to provide contextual, educational feedback on Python code submissions. Unlike traditional automated grading systems, our approach offers explanatory feedback that helps students understand not just what's wrong, but why and how to improve.
+✨ Key Features
+
+Intelligent Code Analysis: Evaluates Python code for correctness, style, and best practices
+RAG-Enhanced Feedback: Retrieves relevant educational content and programming concepts to provide context-aware explanations
+Personalized Learning: Adapts feedback based on common beginner mistakes and learning patterns
+Educational Focus: Prioritizes teaching programming fundamentals over simple pass/fail grading
+
+🛠️ Technologies Used
+
+Large Language Models (LLMs): For natural language feedback generation and code understanding
+RAG Framework: To retrieve and integrate relevant programming documentation and examples
+Python: Core programming language for the system
+[Add specific libraries: LangChain, Vector Database, etc.]
+
+🎓 Use Cases
+
+Programming course assignments and exercises
+Self-paced learning platforms
+Coding bootcamps and workshops
+Supplementary tool for programming instructors
+
+👥 Team
+Project developed as part of academic research at Technological Institute of the Philippines - Quezon City (September 2024 - June 2025)
