@@ -18,7 +18,6 @@ This project implements a code evaluation system that leverages **Large Language
 - **Large Language Models (LLMs)**: For natural language feedback generation and code understanding
 - **RAG Framework**: To retrieve and integrate relevant programming documentation and examples
 - **Python**: Core programming language for the system
-- **[Additional Libraries]**: LangChain, ChromaDB/Pinecone, OpenAI API, Transformers
 
 ## 🎓 Use Cases
 
